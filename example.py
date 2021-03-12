@@ -1,0 +1,3 @@
+from iNaturalist.AggregateQueries import view_taxa_frequency_by_month_overall
+
+view_taxa_frequency_by_month_overall("CoastalGiantSalamander")

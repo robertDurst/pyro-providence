@@ -1,0 +1,46 @@
+TAXON_ID_DICT = {
+    "CoastalGiantSalamander": 26822,
+    "RosyBoa": 32184,
+}
+
+TIME_PRETTY_PRINT_DICT = {
+    0 : "12:00AM",
+    1: "1:00AM",
+    2: "2:00AM",
+    3: "3:00AM",
+    4: "4:00AM",
+    5: "5:00AM",
+    6: "6:00AM",
+    7: "7:00AM",
+    8: "8:00AM",
+    9: "9:00AM",
+    10: "10:00AM",
+    11: "11:00AM",
+    12: "12:00PM",
+    13: "1:00PM",
+    14: "2:00PM",
+    15: "3:00PM",
+    16: "4:00PM",
+    17: "5:00PM",
+    18: "6:00PM",
+    19: "7:00PM",
+    20: "8:00PM",
+    21: "9:00PM",
+    22: "10:00PM",
+    23: "11:00PM",
+}
+
+MONTH_PRETTY_PRINT_DICT = {
+    1: "January",
+    2: "February",
+    3: "March",
+    4: "April",
+    5: "May",
+    6: "June",
+    7: "July",
+    8: "August",
+    9: "September",
+    10: "October",
+    11: "November",
+    12: "December",
+}
